@@ -1,0 +1,2 @@
+val=$(echo $@ | cut -d " " -f3)
+bspc query -D -d $val --names

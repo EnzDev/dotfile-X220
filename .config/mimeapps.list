@@ -1,0 +1,23 @@
+[Added Associations]
+application/pdf=org.gnome.Evince.desktop;evince.desktop;
+application/vnd.openxmlformats-officedocument.presentationml.presentation=libreoffice-impress.desktop;
+text/plain=xfw.desktop;wine-extension-txt.desktop;
+image/png=deepin-image-viewer.desktop;ida.desktop;sxiv.desktop;gimp.desktop;xfi.desktop;mypaint.desktop;wine-extension-png.desktop;
+image/jpeg=xfi.desktop;wine-extension-jpe.desktop;
+text/html=firefox.desktop;
+application/zip=org.gnome.Nautilus.desktop;
+application/x-bittorrent=transmission-gtk.desktop;
+image/gif=deepin-image-viewer.desktop;
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=wps-office-et.desktop;
+application/octet-stream=code-oss.desktop;
+application/xml=code-oss.desktop;
+application/wps-office.pdf=wps-office-pdf.desktop;
+
+[Default Applications]
+text/html=firefox.desktop
+x-scheme-handler/http=firefox.desktop
+x-scheme-handler/https=firefox.desktop
+x-scheme-handler/about=firefox.desktop
+x-scheme-handler/unknown=firefox.desktop
+image/png=deepin-image-viewer.desktop
+x-scheme-handler/jetbrains=jetbrains-toolbox.desktop
